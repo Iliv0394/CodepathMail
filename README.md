@@ -35,8 +35,12 @@ The following **additional** features are implemented:
 - [x] Long email summaries are shortened with an ellipsis
 - [x] Emails are organized vertically using a LinearLayoutManager
 
+## Video Walkthrough
+
+Here's a walkthrough of the implemented features:
+
+**[[Insert GIF or video link here]](https://drive.google.com/file/d/14qCsdsMKKoz3JB1tG_m5jxokur8GX0kx/view?usp=sharing)**
 
 ## Notes
 
 One challenge during this lab was learning how the RecyclerView, Adapter, and email data classes work together. This project helped me better understand how Android apps can display and organize lists of information.
-
